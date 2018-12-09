@@ -15,3 +15,4 @@ or
 ```
 npm config set strict-ssl false
 ```
+https://stackoverflow.com/questions/13913941/how-to-fix-ssl-certificate-error-when-running-npm-on-windows/20305458
